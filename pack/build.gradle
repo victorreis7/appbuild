@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group 'com.greenanimalsbank'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // No external deps for demo
+}
